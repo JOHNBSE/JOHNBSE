@@ -1,4 +1,4 @@
-# Hello, I'm JOHNBSE 👋
+# Hello👋, **John** here
 
 Welcome to my GitHub profile! I'm a full-stack developer passionate about building innovative solutions that solve real-world problems. I work across multiple technologies and love exploring new frameworks and tools.
 
